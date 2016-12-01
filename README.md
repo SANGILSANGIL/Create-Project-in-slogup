@@ -17,6 +17,8 @@ _이 포스트는 앱개발에서 가장 기본이 되는 sg-core-new와 sg-app-
 	사용할 app을 클론한다.
 	
 	```bash
+	#생성한 www 안에 클론	
+	cd www
 	git clone https://github.com/teamslogup/sg-app-new.git app
 	cd app
 	
